@@ -1,0 +1,6 @@
+Collecting h5py
+  Downloading h5py-3.9.0-cp38-cp38-win_amd64.whl (2.7 MB)
+     ---------------------------------------- 2.7/2.7 MB 6.6 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.17.3 in c:\users\despe\.conda\envs\nlp\lib\site-packages (from h5py) (1.24.3)
+Installing collected packages: h5py
+Successfully installed h5py-3.9.0
